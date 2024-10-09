@@ -1,0 +1,4 @@
+usuario:
+adminpedro
+contraseña:
+superadmin

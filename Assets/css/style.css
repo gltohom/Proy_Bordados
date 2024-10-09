@@ -1,0 +1,171 @@
+.app-nav {
+    background-color: #68c5e2;
+}
+
+.app-header {
+    background-color: #118aaf;
+}
+
+.app-sidebar__toggle:focus{
+	background-color: #68c5e2;
+}
+
+.app-header__logo{
+	background-color: #118aaf;
+}
+
+.app-menu{
+	background-color: #118aaf;
+}
+
+.app-sidebar__user{
+	background-color: #118aaf;
+}
+
+.app-sidebar{
+	background-color: #118aaf;
+}
+
+.app, .sidebar-mini,  .pace-done{
+    background-color: #118aaf;
+}
+
+.treeview-item{
+    background-color: #68c5e2;
+}
+
+/*Para darle color a los formularios de roles*/
+.headerRegistro, .header-VerUsuario{
+	background: #118aaf;
+	color: #FFF;
+}
+
+
+
+.headerActualizar{
+	background: #68c5e2;
+	color: #FFF;
+}
+
+.notBlock{
+	display: none;
+}
+
+/* botón guardar los datos de los formularioso en los modals*/
+.btn-Guardar{
+	background: #68c5e2;
+	color: #FFF;
+}
+
+/*Botones en el home*/
+.btn-primary-Home{
+	background: #00bfff;
+	color: #FFF;
+}
+
+/*Bóton para abrir formularios de registros en los modals*/
+.btn-Nuevo{
+	background: #228b22;
+	color: #FFF;
+}
+
+.treeview-item.active, .treeview-item:hover, .treeview-item:focus {
+  background: #add8e6;
+  text-decoration: none;
+  color: #fff;
+}
+
+.app-menu__item.active, .app-menu__item:hover, .app-menu__item:focus {
+    background: #0d1214;
+    border-left-color: #009688;
+    text-decoration: none;
+    color: #fff;
+}
+
+.dropdown-item.active, .dropdown-item:active{
+	background: #0d1214;
+    border-left-color: #009688;
+    text-decoration: none;
+    color: #fff;
+}
+
+#selection {
+    color: #FFF;
+    background-color: #add8e6;
+}
+
+
+/*#bs-select-1-0{
+	background: #68c5e2;
+	color: #FFF;
+
+}
+#bs-select-1-1{
+	background: #68c5e2;
+	color: #FFF;
+
+}*/
+
+/*dropdown-item active selected*/
+
+/*btn dropdown-toggle btn-light
+.dropdown-toggle{
+	background: #68c5e2;
+	color: #FFF;
+}*/
+
+/* Tamaño de producto */
+.imgProductos{
+	
+    WIDTH: auto; 
+    HEIGHT: auto;
+    max-width: 100%;
+    
+}
+
+/* tamaño de carousel */
+.carousel {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
+
+/* tamaño del carousel dos */
+.carousel2{
+	WIDTH: 600px; 
+    HEIGHT: 600px;
+}
+
+/* Fondo para el inicio de sesión */
+.material-half-bg{
+	background-color: #add8e6;
+}
+
+/* Fondo para el inicio de sesión */
+.material-half-bg .cover{
+	background-color: #add8e6;
+}
+
+/*para cambiar color del texto en el inicio de sesión*/
+.tituloLogin{
+	color: white;
+}
+
+/* para la imagen de fondo del login */
+.loginFondo{
+	background-image: url("../images/IMG_20211112_173709.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+/* imagen en la página principal del sistema */
+.rounded{
+	margin-left: center;
+    margin-right: center;
+    WIDTH: 40%; 
+    HEIGHT: 50px;
+    color: rgb(0, 0, 0);
+    max-width: 100%;
+    height: auto;
+  }
